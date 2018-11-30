@@ -1,0 +1,1 @@
+Rectangles.html file is created by me. It is same as circles.html only with few major changes so that we can see rectangle patatap instead of circles. But for rectangles.html and circles.html, the css file is same which is circles.css
